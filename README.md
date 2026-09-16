@@ -1,1 +1,1 @@
-# diocesanschoolforgirls.github.io
+# Diocesan School for Girls organisational GitHub structure
